@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iocyr" format="2">
+  <advance width="634"/>
+  <unicode hex="0451"/>
+  <anchor x="324" y="840" name="Anchor-0"/>
+  <outline>
+    <component base="e"/>
+    <contour>
+      <point x="153" y="630" type="line"/>
+      <point x="286" y="630" type="line"/>
+      <point x="286" y="763" type="line"/>
+      <point x="153" y="763" type="line"/>
+    </contour>
+    <contour>
+      <point x="363" y="630" type="line"/>
+      <point x="496" y="630" type="line"/>
+      <point x="496" y="763" type="line"/>
+      <point x="363" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>122</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>218</integer>
+        <key>width</key>
+        <integer>117</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>445</integer>
+        <key>width</key>
+        <integer>122</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>630</integer>
+        <key>width</key>
+        <integer>133</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>153</integer>
+        <key>width</key>
+        <integer>133</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>363</integer>
+        <key>width</key>
+        <integer>133</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

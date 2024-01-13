@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="2">
+	<unicode hex="2019"/>
+	<advance width="272"/>
+	<outline>
+		<component base="comma" xOffset="127.613" yOffset="613"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>547</integer>
+						<key>width</key>
+						<integer>192</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>192</integer>
+						<key>width</key>
+						<integer>198</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>=comma@70,487</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
+</glyph>

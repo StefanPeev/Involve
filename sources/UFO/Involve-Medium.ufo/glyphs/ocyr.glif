@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocyr" format="2">
+	<unicode hex="043E"/>
+	<advance width="652"/>
+	<outline>
+		<component base="o"/>
+	</outline>
+	<anchor name="Anchor-0" x="325.333" y="625.333"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>492</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>42</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>538</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>o</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="2">
+	<unicode hex="0024"/>
+	<advance width="556"/>
+	<outline>
+		<contour>
+			<point x="237.667" y="-66" type="line"/>
+			<point x="324" y="-66" type="line"/>
+			<point x="324" y="34.667" type="line"/>
+			<point x="420.869" y="49.968"/>
+			<point x="485" y="129.188"/>
+			<point x="485" y="234.333" type="curve" smooth="yes"/>
+			<point x="485" y="338.121"/>
+			<point x="437.293" y="392.591"/>
+			<point x="310" y="435" type="curve" smooth="yes"/>
+			<point x="216.364" y="466.233"/>
+			<point x="190.667" y="490.389"/>
+			<point x="190.667" y="547" type="curve" smooth="yes"/>
+			<point x="190.667" y="608.216"/>
+			<point x="227.888" y="647.667"/>
+			<point x="285.667" y="647.667" type="curve" smooth="yes"/>
+			<point x="342.905" y="647.667"/>
+			<point x="379.326" y="611.104"/>
+			<point x="384.667" y="548.333" type="curve"/>
+			<point x="473.333" y="548.333" type="line"/>
+			<point x="469.664" y="642.739"/>
+			<point x="411.945" y="712.011"/>
+			<point x="324" y="726.333" type="curve"/>
+			<point x="324" y="825.333" type="line"/>
+			<point x="237.667" y="825.333" type="line"/>
+			<point x="237.667" y="726.333" type="line"/>
+			<point x="150.688" y="708.27"/>
+			<point x="97" y="640.353"/>
+			<point x="97" y="548.333" type="curve" smooth="yes"/>
+			<point x="97" y="453.502"/>
+			<point x="145.197" y="395.666"/>
+			<point x="253.333" y="362.333" type="curve" smooth="yes"/>
+			<point x="353.231" y="331.26"/>
+			<point x="391.333" y="293.8"/>
+			<point x="391.333" y="226.63" type="curve" smooth="yes"/>
+			<point x="391.333" y="160.826"/>
+			<point x="344.458" y="114.333"/>
+			<point x="278" y="114.333" type="curve" smooth="yes"/>
+			<point x="209.256" y="114.333"/>
+			<point x="165.662" y="159.416"/>
+			<point x="161.333" y="235" type="curve"/>
+			<point x="70" y="235" type="line"/>
+			<point x="70" y="126.343"/>
+			<point x="126.686" y="58.549"/>
+			<point x="237.667" y="34.667" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-56</integer>
+						<key>width</key>
+						<integer>146</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>665</integer>
+						<key>width</key>
+						<integer>145</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>100</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>245</integer>
+						<key>width</key>
+						<integer>66</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>405</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.fitted" format="2">
+	<unicode hex="E001"/>
+	<advance width="334"/>
+	<outline>
+		<component base="one" xOffset="-120"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>672</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>157</integer>
+						<key>width</key>
+						<integer>210</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>public.markColor</key>
+			<string>0.999,1,0.6,1</string>
+		</dict>
+	</lib>
+</glyph>

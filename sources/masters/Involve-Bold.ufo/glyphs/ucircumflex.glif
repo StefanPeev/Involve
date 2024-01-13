@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucircumflex" format="2">
+  <advance width="599"/>
+  <unicode hex="00FB"/>
+  <anchor x="298" y="840" name="Anchor-0"/>
+  <outline>
+    <component base="u"/>
+    <contour>
+      <point x="99" y="630" type="line"/>
+      <point x="246" y="630" type="line"/>
+      <point x="300" y="694" type="line"/>
+      <point x="353" y="630" type="line"/>
+      <point x="498" y="630" type="line"/>
+      <point x="353" y="768" type="line"/>
+      <point x="246" y="768" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>122</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>534</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>52</integer>
+        <key>width</key>
+        <integer>133</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>412</integer>
+        <key>width</key>
+        <integer>133</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>422</integer>
+        <key>width</key>
+        <integer>123</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ugrave" format="2">
+  <advance width="641"/>
+  <unicode hex="00D9"/>
+  <anchor x="320" y="1015" name="Anchor-0"/>
+  <outline>
+    <component base="U"/>
+    <contour>
+      <point x="141" y="912" type="line"/>
+      <point x="367" y="788" type="line"/>
+      <point x="420" y="867" type="line"/>
+      <point x="198" y="1000" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>132</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>719</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>71</integer>
+        <key>width</key>
+        <integer>137</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>433</integer>
+        <key>width</key>
+        <integer>137</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

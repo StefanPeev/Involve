@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="2">
+	<unicode hex="00EF"/>
+	<advance width="241"/>
+	<outline>
+		<contour>
+			<point x="54" y="0" type="line"/>
+			<point x="187" y="0" type="line"/>
+			<point x="187" y="554" type="line"/>
+			<point x="54" y="554" type="line"/>
+		</contour>
+		<contour>
+			<point x="-51" y="630" type="line"/>
+			<point x="82" y="630" type="line"/>
+			<point x="82" y="763" type="line"/>
+			<point x="-51" y="763" type="line"/>
+		</contour>
+		<contour>
+			<point x="159" y="630" type="line"/>
+			<point x="292" y="630" type="line"/>
+			<point x="292" y="763" type="line"/>
+			<point x="159" y="763" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="120" y="840"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>527</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>623</integer>
+						<key>width</key>
+						<integer>126</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-10</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>64</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>137</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

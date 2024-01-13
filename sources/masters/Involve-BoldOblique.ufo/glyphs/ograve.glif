@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ograve" format="2">
+  <advance width="645"/>
+  <unicode hex="00F2"/>
+  <outline>
+    <component base="o"/>
+    <contour>
+      <point x="287" y="737" type="line"/>
+      <point x="490" y="613" type="line"/>
+      <point x="557" y="692" type="line"/>
+      <point x="360" y="825" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>122</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>445</integer>
+        <key>width</key>
+        <integer>122</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>74</integer>
+        <key>width</key>
+        <integer>136</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>537</integer>
+        <key>width</key>
+        <integer>136</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

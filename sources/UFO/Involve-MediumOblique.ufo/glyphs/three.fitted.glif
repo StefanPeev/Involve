@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.fitted" format="2">
+	<unicode hex="E003"/>
+	<advance width="540"/>
+	<outline>
+		<component base="three"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>388</integer>
+						<key>width</key>
+						<integer>66</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>555</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>685</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>70</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>184</integer>
+						<key>width</key>
+						<integer>73</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>473</integer>
+						<key>width</key>
+						<integer>76</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>488</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>public.markColor</key>
+			<string>0.999,1,0.6,1</string>
+		</dict>
+	</lib>
+</glyph>

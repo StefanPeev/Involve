@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflex" format="2">
+	<unicode hex="00E2"/>
+	<advance width="683"/>
+	<outline>
+		<component base="a"/>
+		<contour>
+			<point x="174" y="623" type="line"/>
+			<point x="265" y="623" type="line"/>
+			<point x="353" y="697" type="line"/>
+			<point x="439" y="623" type="line"/>
+			<point x="528" y="623" type="line"/>
+			<point x="385" y="749" type="line"/>
+			<point x="319" y="749" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="351" y="805"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>492</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>527</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>729</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>42</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>546</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

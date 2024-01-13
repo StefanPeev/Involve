@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotereversed" format="2">
+	<unicode hex="201B"/>
+	<advance width="272"/>
+	<outline>
+		<contour>
+			<point x="334.667" y="739.333" type="line"/>
+			<point x="215.333" y="739.333" type="line"/>
+			<point x="193.667" y="630" type="line" smooth="yes"/>
+			<point x="175.667" y="538.667"/>
+			<point x="232.333" y="488.667"/>
+			<point x="276.667" y="476.333" type="curve"/>
+			<point x="289" y="535.667" type="line"/>
+			<point x="271" y="544.333"/>
+			<point x="249.333" y="568"/>
+			<point x="258.667" y="612" type="curve"/>
+			<point x="310" y="612" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=|comma</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=|comma</string>
+			<key>com.fontlab.recipe</key>
+			<string>=comma@~70,487</string>
+			<key>public.markColor</key>
+			<string>0.6,0.602,1,1</string>
+		</dict>
+	</lib>
+</glyph>

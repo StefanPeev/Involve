@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eacute" format="2">
+  <advance width="634"/>
+  <unicode hex="00E9"/>
+  <outline>
+    <component base="e"/>
+    <contour>
+      <point x="390" y="613" type="line"/>
+      <point x="639" y="733" type="line"/>
+      <point x="602" y="825" type="line"/>
+      <point x="353" y="691" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>122</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>218</integer>
+        <key>width</key>
+        <integer>117</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>445</integer>
+        <key>width</key>
+        <integer>122</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

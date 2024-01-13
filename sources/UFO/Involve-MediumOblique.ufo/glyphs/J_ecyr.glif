@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jecyr" format="2">
+	<unicode hex="0408"/>
+	<advance width="486"/>
+	<outline>
+		<contour>
+			<point x="45.333" y="175" type="line"/>
+			<point x="43.667" y="162.667"/>
+			<point x="43.333" y="150"/>
+			<point x="43.333" y="139" type="curve" smooth="yes"/>
+			<point x="43.333" y="62.667"/>
+			<point x="85.333" y="17.667"/>
+			<point x="161.667" y="9.667" type="curve"/>
+			<point x="257" y="-5"/>
+			<point x="332.333" y="43.667"/>
+			<point x="373" y="149.667" type="curve"/>
+			<point x="425.121" y="207.966"/>
+			<point x="495.031" y="450.515"/>
+			<point x="516" y="563.333" type="curve"/>
+			<point x="499.333" y="739" type="line"/>
+			<point x="391" y="400.333" type="line"/>
+			<point x="368.85" y="281.985"/>
+			<point x="313.695" y="135.113"/>
+			<point x="255.333" y="108" type="curve" smooth="yes"/>
+			<point x="207.333" y="86.333"/>
+			<point x="172" y="101"/>
+			<point x="157.333" y="143" type="curve"/>
+			<point x="146" y="147"/>
+			<point x="139.667" y="158"/>
+			<point x="139.667" y="175" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-14</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>719</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>41</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

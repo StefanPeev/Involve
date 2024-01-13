@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve.cyruc" format="2">
+	<unicode hex="E081"/>
+	<advance width="490"/>
+	<outline>
+		<contour>
+			<point x="71.333" y="935" type="line"/>
+			<point x="86.294" y="846.174"/>
+			<point x="148.995" y="796"/>
+			<point x="245" y="796" type="curve" smooth="yes"/>
+			<point x="341.005" y="796"/>
+			<point x="403.706" y="846.174"/>
+			<point x="418.667" y="935" type="curve"/>
+			<point x="317" y="935" type="line"/>
+			<point x="317" y="880.063"/>
+			<point x="294.143" y="854.667"/>
+			<point x="245" y="854.667" type="curve" smooth="yes"/>
+			<point x="195.857" y="854.667"/>
+			<point x="173" y="880.063"/>
+			<point x="173" y="935" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>796</integer>
+						<key>width</key>
+						<integer>46</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>74</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>333</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

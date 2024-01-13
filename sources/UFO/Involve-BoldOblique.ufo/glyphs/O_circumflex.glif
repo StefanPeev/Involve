@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflex" format="2">
+	<unicode hex="00D4"/>
+	<advance width="842"/>
+	<outline>
+		<component base="O"/>
+		<contour>
+			<point x="371" y="805" type="line"/>
+			<point x="518" y="805" type="line"/>
+			<point x="584" y="869" type="line"/>
+			<point x="625" y="805" type="line"/>
+			<point x="770" y="805" type="line"/>
+			<point x="651" y="943" type="line"/>
+			<point x="544" y="943" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>684</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>106</integer>
+						<key>width</key>
+						<integer>76</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>824</integer>
+						<key>width</key>
+						<integer>76</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>public.markColor</key>
+			<string>0.999,1,0.6,1</string>
+		</dict>
+	</lib>
+</glyph>

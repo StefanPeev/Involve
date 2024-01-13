@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucircumflex" format="2">
+	<unicode hex="00DB"/>
+	<advance width="641"/>
+	<outline>
+		<component base="U"/>
+		<contour>
+			<point x="121" y="805" type="line"/>
+			<point x="268" y="805" type="line"/>
+			<point x="322" y="869" type="line"/>
+			<point x="375" y="805" type="line"/>
+			<point x="520" y="805" type="line"/>
+			<point x="375" y="943" type="line"/>
+			<point x="268" y="943" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="320" y="1015"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>719</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>76</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>505</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

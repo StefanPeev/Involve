@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yatcyr" format="2">
+	<unicode hex="0462"/>
+	<advance width="678"/>
+	<outline>
+		<contour>
+			<point x="266.333" y="109.667" type="line"/>
+			<point x="266.333" y="325.333" type="line"/>
+			<point x="342.667" y="325.333" type="line" smooth="yes"/>
+			<point x="395.945" y="325.333"/>
+			<point x="435.289" y="320.67"/>
+			<point x="464" y="310.667" type="curve"/>
+			<point x="509.375" y="296.366"/>
+			<point x="534.333" y="263.98"/>
+			<point x="534.333" y="219.667" type="curve" smooth="yes"/>
+			<point x="534.333" y="168.038"/>
+			<point x="506.587" y="132.358"/>
+			<point x="456" y="119.333" type="curve" smooth="yes"/>
+			<point x="426.712" y="112.37"/>
+			<point x="394.167" y="109.667"/>
+			<point x="337" y="109.667" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="150.333" y="0" type="line"/>
+			<point x="342.667" y="0" type="line" smooth="yes"/>
+			<point x="449.066" y="0"/>
+			<point x="504.772" y="9.941"/>
+			<point x="552.667" y="37.333" type="curve" smooth="yes"/>
+			<point x="616.79" y="73.971"/>
+			<point x="651.333" y="137.316"/>
+			<point x="651.333" y="218" type="curve" smooth="yes"/>
+			<point x="651.333" y="299.512"/>
+			<point x="614.382" y="366.516"/>
+			<point x="550.667" y="401" type="curve" smooth="yes"/>
+			<point x="505.928" y="426.109"/>
+			<point x="452.97" y="435"/>
+			<point x="345.333" y="435" type="curve" smooth="yes"/>
+			<point x="266.333" y="435" type="line"/>
+			<point x="266.333" y="537.667" type="line"/>
+			<point x="430.667" y="537.667" type="line"/>
+			<point x="430.667" y="647.333" type="line"/>
+			<point x="266.333" y="647.333" type="line"/>
+			<point x="266.333" y="739" type="line"/>
+			<point x="150.333" y="739" type="line"/>
+			<point x="150.333" y="647.333" type="line"/>
+			<point x="8.667" y="647.333" type="line"/>
+			<point x="8.667" y="537.667" type="line"/>
+			<point x="150.333" y="537.667" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="208" y="805"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>358</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>559</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>719</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>187</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>591</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

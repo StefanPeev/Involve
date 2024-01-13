@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzecyr" format="2">
+  <advance width="438"/>
+  <unicode hex="0455"/>
+  <anchor x="220" y="630" name="Anchor-0"/>
+  <outline>
+    <component base="s"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>122</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>445</integer>
+        <key>width</key>
+        <integer>122</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>35</integer>
+        <key>width</key>
+        <integer>133</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>283</integer>
+        <key>width</key>
+        <integer>133</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>s</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obreve" format="2">
+	<unicode hex="014E"/>
+	<advance width="860"/>
+	<outline>
+		<component base="O"/>
+		<component base="breve" xyScale="0" xOffset="226.092" yOffset="189.667"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.recipe</key>
+			<string>O+breve</string>
+			<key>public.markColor</key>
+			<string>0.999,1,0.6,1</string>
+		</dict>
+	</lib>
+</glyph>

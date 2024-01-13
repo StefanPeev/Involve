@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="2">
+	<unicode hex="00D5"/>
+	<advance width="860"/>
+	<outline>
+		<component base="O"/>
+		<contour>
+			<point x="476" y="813.667" type="line"/>
+			<point x="505.333" y="835.333"/>
+			<point x="518.333" y="843.333"/>
+			<point x="545" y="843.333" type="curve" smooth="yes"/>
+			<point x="558" y="843.333"/>
+			<point x="568" y="840.333"/>
+			<point x="587.667" y="832.667" type="curve" smooth="yes"/>
+			<point x="616.667" y="821.333"/>
+			<point x="638" y="813.667"/>
+			<point x="653" y="813.667" type="curve" smooth="yes"/>
+			<point x="686.667" y="813.667"/>
+			<point x="722.333" y="834.333"/>
+			<point x="749.333" y="864.667" type="curve"/>
+			<point x="720.333" y="922.333" type="line"/>
+			<point x="695.333" y="899.667"/>
+			<point x="675" y="890.333"/>
+			<point x="653.667" y="890.333" type="curve" smooth="yes"/>
+			<point x="643" y="890.333"/>
+			<point x="625.667" y="895.333"/>
+			<point x="608.667" y="903.333" type="curve" smooth="yes"/>
+			<point x="581" y="916"/>
+			<point x="571.667" y="919.333"/>
+			<point x="552.333" y="919.333" type="curve" smooth="yes"/>
+			<point x="514.333" y="919.333"/>
+			<point x="480" y="903.333"/>
+			<point x="447" y="871" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>684</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>815</integer>
+						<key>width</key>
+						<integer>64</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>847</integer>
+						<key>width</key>
+						<integer>63</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>106</integer>
+						<key>width</key>
+						<integer>76</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>824</integer>
+						<key>width</key>
+						<integer>76</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>public.markColor</key>
+			<string>0.999,1,0.6,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="2">
+	<unicode hex="02D9"/>
+	<advance width="222"/>
+	<outline>
+		<contour>
+			<point x="74" y="623" type="line"/>
+			<point x="148" y="623" type="line"/>
+			<point x="148" y="749" type="line"/>
+			<point x="74" y="749" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>623</integer>
+						<key>width</key>
+						<integer>126</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>74</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

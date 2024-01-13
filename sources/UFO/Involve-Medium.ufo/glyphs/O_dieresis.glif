@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis" format="2">
+	<unicode hex="00D6"/>
+	<advance width="860"/>
+	<outline>
+		<component base="O"/>
+		<contour>
+			<point x="299.333" y="805" type="line"/>
+			<point x="393" y="805" type="line"/>
+			<point x="393" y="933.333" type="line"/>
+			<point x="299.333" y="933.333" type="line"/>
+		</contour>
+		<contour>
+			<point x="467.333" y="805" type="line"/>
+			<point x="561" y="805" type="line"/>
+			<point x="561" y="933.333" type="line"/>
+			<point x="467.333" y="933.333" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="429.667" y="996.333"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>684</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>805</integer>
+						<key>width</key>
+						<integer>126</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>44</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>750</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

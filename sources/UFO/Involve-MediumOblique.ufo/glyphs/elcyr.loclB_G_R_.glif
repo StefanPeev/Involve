@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="elcyr.loclBGR" format="2">
+	<advance width="570"/>
+	<outline>
+		<contour>
+			<point x="6.333" y="0" type="line"/>
+			<point x="105.667" y="0" type="line"/>
+			<point x="365.333" y="431.333" type="line"/>
+			<point x="464.333" y="0" type="line"/>
+			<point x="563.667" y="0" type="line"/>
+			<point x="431.667" y="549.333" type="line"/>
+			<point x="341.667" y="549.333" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>527</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

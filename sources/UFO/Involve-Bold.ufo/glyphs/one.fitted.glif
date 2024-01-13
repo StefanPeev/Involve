@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.fitted" format="2">
+	<unicode hex="E001"/>
+	<advance width="346"/>
+	<outline>
+		<contour>
+			<point x="129" y="0" type="line"/>
+			<point x="262" y="0" type="line"/>
+			<point x="262" y="739" type="line"/>
+			<point x="36" y="739" type="line"/>
+			<point x="36" y="614" type="line"/>
+			<point x="129" y="614" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="171" y="805"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>672</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>157</integer>
+						<key>width</key>
+						<integer>73</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis name="weight" maximum="700" default="400" tag="wght" minimum="400">
+   <labelname xml:lang="en">Weight</labelname>
+  </axis>
+ </axes>
+ <sources>
+  <source name="Bold" familyname="Involve" filename="masters/Involve-Bold.ufo" stylename="Bold">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </source>
+  <source name="Regular" familyname="Involve" filename="masters/Involve-Regular.ufo" stylename="Regular">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance name="Regular" familyname="Involve" filename="instances/Involve-Regular.ufo" stylename="Regular">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance name="Medium" familyname="Involve" filename="instances/Involve-Medium.ufo" stylename="Medium">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance name="SemiBold" familyname="Involve" filename="instances/Involve-SemiBold.ufo" stylename="SemiBold">
+   <location>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance name="Bold" familyname="Involve" filename="instances/Involve-Bold.ufo" stylename="Bold">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

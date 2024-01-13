@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shchacyr" format="2">
+	<unicode hex="0429"/>
+	<advance width="943"/>
+	<outline>
+		<contour>
+			<point x="76" y="0" type="line"/>
+			<point x="837" y="0" type="line"/>
+			<point x="865" y="-136" type="line"/>
+			<point x="917" y="-136" type="line"/>
+			<point x="917" y="67" type="line"/>
+			<point x="820" y="67" type="line"/>
+			<point x="820" y="739" type="line"/>
+			<point x="746" y="739" type="line"/>
+			<point x="746" y="67" type="line"/>
+			<point x="485" y="67" type="line"/>
+			<point x="485" y="739" type="line"/>
+			<point x="411" y="739" type="line"/>
+			<point x="411" y="67" type="line"/>
+			<point x="150" y="67" type="line"/>
+			<point x="150" y="739" type="line"/>
+			<point x="76" y="739" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="448" y="805"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>719</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>76</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>411</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>746</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

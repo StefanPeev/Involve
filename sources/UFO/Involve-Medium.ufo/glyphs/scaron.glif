@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scaron" format="2">
+	<unicode hex="0161"/>
+	<advance width="405"/>
+	<outline>
+		<component base="s"/>
+		<contour>
+			<point x="18" y="755.333" type="line"/>
+			<point x="162.333" y="625.333" type="line"/>
+			<point x="242" y="625.333" type="line"/>
+			<point x="387" y="755.333" type="line"/>
+			<point x="278" y="755.333" type="line"/>
+			<point x="201.667" y="684.667" type="line"/>
+			<point x="126.333" y="755.333" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="202.667" y="816.667"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>492</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>729</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>39</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>287</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

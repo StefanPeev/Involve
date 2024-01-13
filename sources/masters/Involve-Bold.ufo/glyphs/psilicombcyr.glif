@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psilicombcyr" format="2">
+  <unicode hex="0486"/>
+  <outline>
+    <contour>
+      <point x="-196" y="689" type="line"/>
+      <point x="-196" y="667"/>
+      <point x="-219.294" y="638.059"/>
+      <point x="-262" y="607" type="curve"/>
+      <point x="-148" y="607" type="line"/>
+      <point x="-99.0026" y="646.81"/>
+      <point x="-67" y="700.938"/>
+      <point x="-67" y="744" type="curve" smooth="yes"/>
+      <point x="-67" y="757" type="line" smooth="yes"/>
+      <point x="-67" y="806.139"/>
+      <point x="-101.019" y="836"/>
+      <point x="-157" y="836" type="curve" smooth="yes"/>
+      <point x="-161" y="836" type="line" smooth="yes"/>
+      <point x="-213.375" y="836"/>
+      <point x="-248" y="802.569"/>
+      <point x="-248" y="752" type="curve" smooth="yes"/>
+      <point x="-248" y="721.812"/>
+      <point x="-223" y="689"/>
+      <point x="-200" y="689" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>719</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-205</integer>
+        <key>width</key>
+        <integer>111</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-163</integer>
+        <key>width</key>
+        <integer>69</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

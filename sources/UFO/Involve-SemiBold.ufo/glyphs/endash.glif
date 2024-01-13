@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="2">
+	<unicode hex="2013"/>
+	<advance width="500"/>
+	<outline>
+		<contour>
+			<point x="0" y="230.333" type="line"/>
+			<point x="500" y="230.333" type="line"/>
+			<point x="500" y="330" type="line"/>
+			<point x="0" y="330" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>233</integer>
+						<key>width</key>
+						<integer>63</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

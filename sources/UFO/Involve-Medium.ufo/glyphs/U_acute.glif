@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uacute" format="2">
+	<unicode hex="00DA"/>
+	<advance width="650"/>
+	<outline>
+		<component base="U"/>
+		<contour>
+			<point x="278.333" y="790.667" type="line"/>
+			<point x="482.667" y="906.667" type="line"/>
+			<point x="442" y="976" type="line"/>
+			<point x="238.667" y="854" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="324.667" y="996.333"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>719</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>76</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>505</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

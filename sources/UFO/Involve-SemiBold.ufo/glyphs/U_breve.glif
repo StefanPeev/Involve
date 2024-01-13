@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ubreve" format="2">
+	<unicode hex="016C"/>
+	<advance width="646"/>
+	<outline>
+		<component base="U"/>
+		<component base="breve" xyScale="0" xOffset="94.833" yOffset="187.333"/>
+	</outline>
+	<anchor name="Anchor-0" x="322.333" y="805"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
+</glyph>

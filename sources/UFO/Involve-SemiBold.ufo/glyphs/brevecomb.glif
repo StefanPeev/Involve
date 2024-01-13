@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb" format="2">
+	<unicode hex="0306"/>
+	<outline>
+		<component base="breve" xOffset="-552.333"/>
+	</outline>
+	<anchor name="Anchor-1" x="-324.333" y="828.333"/>
+	<anchor name="_Anchor-1" x="-324.333" y="627.667"/>
+	<anchor name="_Anchor-0" x="-324.333" y="627.667"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>623</integer>
+						<key>width</key>
+						<integer>58</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>723</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

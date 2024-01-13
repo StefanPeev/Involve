@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scaron" format="2">
+	<unicode hex="0160"/>
+	<advance width="524"/>
+	<outline>
+		<component base="S"/>
+		<contour>
+			<point x="62" y="943" type="line"/>
+			<point x="209" y="805" type="line"/>
+			<point x="316" y="805" type="line"/>
+			<point x="461" y="943" type="line"/>
+			<point x="316" y="943" type="line"/>
+			<point x="263" y="879" type="line"/>
+			<point x="209" y="943" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="261" y="1015"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>684</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>46</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>401</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

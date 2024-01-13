@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yuslittlecyr" format="2">
+	<unicode hex="0467"/>
+	<advance width="592"/>
+	<outline>
+		<contour>
+			<point x="15" y="0" type="line"/>
+			<point x="137.333" y="0" type="line"/>
+			<point x="203" y="113.667" type="line"/>
+			<point x="254.667" y="86.333" type="line"/>
+			<point x="239" y="-0.667" type="line"/>
+			<point x="352.333" y="-0.667" type="line"/>
+			<point x="368" y="84.333" type="line"/>
+			<point x="431.667" y="111.667" type="line"/>
+			<point x="454.333" y="-0.667" type="line"/>
+			<point x="576.667" y="0" type="line"/>
+			<point x="446.667" y="551.667" type="line"/>
+			<point x="349.667" y="551.667" type="line"/>
+		</contour>
+		<contour>
+			<point x="254.333" y="202.667" type="line"/>
+			<point x="370" y="399" type="line"/>
+			<point x="412.667" y="201.333" type="line"/>
+			<point x="326.667" y="164.667" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>155</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>527</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>244</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

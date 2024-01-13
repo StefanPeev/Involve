@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="2">
+  <unicode hex="0308"/>
+  <anchor x="-328" y="805" name="Anchor-1"/>
+  <anchor x="-328" y="623" name="_Anchor-1"/>
+  <anchor x="-328" y="623" name="_Anchor-0"/>
+  <outline>
+    <contour>
+      <point x="-438" y="623" type="line"/>
+      <point x="-364" y="623" type="line"/>
+      <point x="-364" y="749" type="line"/>
+      <point x="-438" y="749" type="line"/>
+    </contour>
+    <contour>
+      <point x="-291" y="623" type="line"/>
+      <point x="-217" y="623" type="line"/>
+      <point x="-217" y="749" type="line"/>
+      <point x="-291" y="749" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>623</integer>
+        <key>width</key>
+        <integer>126</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-438</integer>
+        <key>width</key>
+        <integer>74</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-291</integer>
+        <key>width</key>
+        <integer>74</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

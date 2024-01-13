@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb.cyr" format="2">
+	<unicode hex="E082"/>
+	<outline>
+		<contour>
+			<point x="-479" y="746" type="line"/>
+			<point x="-464.85" y="661.102"/>
+			<point x="-412.115" y="616"/>
+			<point x="-327" y="616" type="curve" smooth="yes"/>
+			<point x="-241.885" y="616"/>
+			<point x="-189.15" y="661.102"/>
+			<point x="-175" y="746" type="curve"/>
+			<point x="-249" y="746" type="line"/>
+			<point x="-249" y="690.615"/>
+			<point x="-275.571" y="662"/>
+			<point x="-327" y="662" type="curve" smooth="yes"/>
+			<point x="-378.429" y="662"/>
+			<point x="-405" y="690.615"/>
+			<point x="-405" y="746" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-1" x="-327" y="805"/>
+	<anchor name="_Anchor-1" x="-327" y="623"/>
+	<anchor name="_Anchor-0" x="-327" y="623"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>616</integer>
+						<key>width</key>
+						<integer>46</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>726</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-479</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>-249</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

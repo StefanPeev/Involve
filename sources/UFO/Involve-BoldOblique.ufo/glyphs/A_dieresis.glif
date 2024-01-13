@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="2">
+	<unicode hex="00C4"/>
+	<advance width="740"/>
+	<outline>
+		<component base="A"/>
+		<contour>
+			<point x="348" y="805" type="line"/>
+			<point x="481" y="805" type="line"/>
+			<point x="506" y="938" type="line"/>
+			<point x="373" y="938" type="line"/>
+		</contour>
+		<contour>
+			<point x="558" y="805" type="line"/>
+			<point x="691" y="805" type="line"/>
+			<point x="716" y="938" type="line"/>
+			<point x="583" y="938" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>249</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>719</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>805</integer>
+						<key>width</key>
+						<integer>126</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>public.markColor</key>
+			<string>0.999,1,0.6,1</string>
+		</dict>
+	</lib>
+</glyph>

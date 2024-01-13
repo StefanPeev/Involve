@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="becyr.serbian" format="2">
+  <advance width="645"/>
+  <unicode hex="E0A0"/>
+  <anchor x="315" y="840" name="Anchor-0"/>
+  <outline>
+    <contour>
+      <point x="216" y="498" type="line"/>
+      <point x="101.616" y="469.944"/>
+      <point x="28" y="377.532"/>
+      <point x="28" y="262" type="curve" smooth="yes"/>
+      <point x="28" y="109.767"/>
+      <point x="159.249" y="-13"/>
+      <point x="322" y="-13" type="curve" smooth="yes"/>
+      <point x="485.027" y="-13"/>
+      <point x="617" y="110.025"/>
+      <point x="617" y="262" type="curve" smooth="yes"/>
+      <point x="617" y="379.427"/>
+      <point x="546.621" y="460.633"/>
+      <point x="383" y="532" type="curve" smooth="yes"/>
+      <point x="195" y="614" type="line" smooth="yes"/>
+      <point x="176.044" y="622.268"/>
+      <point x="170" y="629.037"/>
+      <point x="170" y="642" type="curve" smooth="yes"/>
+      <point x="170" y="655.1"/>
+      <point x="180.114" y="664"/>
+      <point x="195" y="664" type="curve" smooth="yes"/>
+      <point x="584" y="664" type="line"/>
+      <point x="584" y="781" type="line"/>
+      <point x="195" y="781" type="line" smooth="yes"/>
+      <point x="110.665" y="781"/>
+      <point x="46" y="724.581"/>
+      <point x="46" y="651" type="curve" smooth="yes"/>
+      <point x="46" y="592.683"/>
+      <point x="84.1536" y="547.042"/>
+      <point x="153" y="523" type="curve" smooth="yes"/>
+      <point x="216" y="501" type="line"/>
+    </contour>
+    <contour>
+      <point x="162" y="262" type="curve" smooth="yes"/>
+      <point x="162" y="347.331"/>
+      <point x="233.344" y="416"/>
+      <point x="322" y="416" type="curve" smooth="yes"/>
+      <point x="410.932" y="416"/>
+      <point x="483" y="347.065"/>
+      <point x="483" y="262" type="curve" smooth="yes"/>
+      <point x="483" y="177.211"/>
+      <point x="411.222" y="109"/>
+      <point x="322" y="109" type="curve" smooth="yes"/>
+      <point x="233.056" y="109"/>
+      <point x="162" y="176.947"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>122</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>664</integer>
+        <key>width</key>
+        <integer>117</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>28</integer>
+        <key>width</key>
+        <integer>134</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>483</integer>
+        <key>width</key>
+        <integer>134</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

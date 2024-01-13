@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis" format="2">
+  <advance width="645"/>
+  <unicode hex="00F6"/>
+  <outline>
+    <component base="o"/>
+    <contour>
+      <point x="268" y="630" type="line"/>
+      <point x="401" y="630" type="line"/>
+      <point x="425" y="763" type="line"/>
+      <point x="292" y="763" type="line"/>
+    </contour>
+    <contour>
+      <point x="478" y="630" type="line"/>
+      <point x="611" y="630" type="line"/>
+      <point x="635" y="763" type="line"/>
+      <point x="502" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>122</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>445</integer>
+        <key>width</key>
+        <integer>122</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>630</integer>
+        <key>width</key>
+        <integer>133</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>74</integer>
+        <key>width</key>
+        <integer>136</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>537</integer>
+        <key>width</key>
+        <integer>136</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

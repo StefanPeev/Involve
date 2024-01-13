@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth" format="2">
+	<unicode hex="00F0"/>
+	<advance width="648"/>
+	<outline>
+		<contour>
+			<point x="32.667" y="276.667" type="curve" smooth="yes"/>
+			<point x="32.667" y="114.716"/>
+			<point x="162.288" y="-13"/>
+			<point x="326.667" y="-13" type="curve" smooth="yes"/>
+			<point x="491.661" y="-13"/>
+			<point x="615.667" y="113.657"/>
+			<point x="615.667" y="282.333" type="curve" smooth="yes"/>
+			<point x="615.667" y="408.691"/>
+			<point x="546.773" y="521.526"/>
+			<point x="383" y="663.333" type="curve"/>
+			<point x="464.667" y="699.667" type="line"/>
+			<point x="424.333" y="747" type="line"/>
+			<point x="334.667" y="706.333" type="line"/>
+			<point x="315.339" y="723.225"/>
+			<point x="297.99" y="736.143"/>
+			<point x="268.667" y="756" type="curve"/>
+			<point x="182.333" y="723" type="line"/>
+			<point x="206.205" y="706.65"/>
+			<point x="225.957" y="689.897"/>
+			<point x="249" y="666.667" type="curve"/>
+			<point x="170.667" y="630.333" type="line"/>
+			<point x="209.333" y="584.333" type="line"/>
+			<point x="296.333" y="624" type="line"/>
+			<point x="326.105" y="600.108"/>
+			<point x="343.166" y="583.707"/>
+			<point x="379.333" y="544" type="curve"/>
+			<point x="345.985" y="552.8"/>
+			<point x="324.389" y="556"/>
+			<point x="302" y="556" type="curve" smooth="yes"/>
+			<point x="153.574" y="556"/>
+			<point x="32.667" y="430.583"/>
+		</contour>
+		<contour>
+			<point x="147" y="275.333" type="curve" smooth="yes"/>
+			<point x="147" y="378.534"/>
+			<point x="224.542" y="460.667"/>
+			<point x="322" y="460.667" type="curve" smooth="yes"/>
+			<point x="424.167" y="460.667"/>
+			<point x="501.333" y="380.494"/>
+			<point x="501.333" y="274.333" type="curve" smooth="yes"/>
+			<point x="501.333" y="170.655"/>
+			<point x="424.987" y="91"/>
+			<point x="325.667" y="91" type="curve" smooth="yes"/>
+			<point x="225.239" y="91"/>
+			<point x="147" y="171.77"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="324.667" y="805"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>492</integer>
+						<key>width</key>
+						<integer>64</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>723</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>736</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>42</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>538</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

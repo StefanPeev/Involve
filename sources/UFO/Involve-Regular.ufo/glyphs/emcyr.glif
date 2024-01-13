@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emcyr" format="2">
+	<unicode hex="043C"/>
+	<advance width="738"/>
+	<outline>
+		<contour>
+			<point x="63" y="0" type="line"/>
+			<point x="137" y="0" type="line"/>
+			<point x="137" y="466" type="line"/>
+			<point x="337" y="0" type="line"/>
+			<point x="401" y="0" type="line"/>
+			<point x="601" y="466" type="line"/>
+			<point x="601" y="0" type="line"/>
+			<point x="675" y="0" type="line"/>
+			<point x="675" y="547" type="line"/>
+			<point x="560" y="547" type="line"/>
+			<point x="369" y="103" type="line"/>
+			<point x="178" y="547" type="line"/>
+			<point x="63" y="547" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="369" y="623"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>527</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>63</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>601</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

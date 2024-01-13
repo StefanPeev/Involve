@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ebreve" format="2">
+  <advance width="634"/>
+  <unicode hex="0115"/>
+  <outline>
+    <component base="e"/>
+    <component base="breve" xOffset="74.6447"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>e+breve</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

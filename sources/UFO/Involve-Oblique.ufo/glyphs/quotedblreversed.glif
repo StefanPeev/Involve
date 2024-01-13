@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblreversed" format="2">
+	<unicode hex="201F"/>
+	<advance width="412"/>
+	<outline>
+		<component base="quotereversed" xOffset="160"/>
+		<component base="quotereversed"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=|comma</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=|comma</string>
+			<key>public.markColor</key>
+			<string>0.6,0.602,1,1</string>
+		</dict>
+	</lib>
+</glyph>

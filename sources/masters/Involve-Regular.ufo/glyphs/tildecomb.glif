@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="2">
+  <unicode hex="0303"/>
+  <anchor x="-330" y="805" name="Anchor-1"/>
+  <anchor x="-330" y="623" name="_Anchor-1"/>
+  <anchor x="-330" y="623" name="_Anchor-0"/>
+  <outline>
+    <contour>
+      <point x="-433" y="633" type="line"/>
+      <point x="-415.046" y="654.022"/>
+      <point x="-394.463" y="665"/>
+      <point x="-373" y="665" type="curve" smooth="yes"/>
+      <point x="-363.635" y="665"/>
+      <point x="-350.855" y="661.805"/>
+      <point x="-333" y="655" type="curve" smooth="yes"/>
+      <point x="-292.561" y="639.587"/>
+      <point x="-268.332" y="633"/>
+      <point x="-252.085" y="633" type="curve" smooth="yes"/>
+      <point x="-227.379" y="633"/>
+      <point x="-192.219" y="655.644"/>
+      <point x="-176" y="682" type="curve"/>
+      <point x="-209" y="728" type="line"/>
+      <point x="-229.756" y="706.255"/>
+      <point x="-246.774" y="697"/>
+      <point x="-266" y="697" type="curve" smooth="yes"/>
+      <point x="-274.711" y="697"/>
+      <point x="-296.578" y="703.378"/>
+      <point x="-314" y="711" type="curve" smooth="yes"/>
+      <point x="-346.943" y="725.413"/>
+      <point x="-355.923" y="728"/>
+      <point x="-373" y="728" type="curve" smooth="yes"/>
+      <point x="-408.918" y="728"/>
+      <point x="-442.948" y="710.071"/>
+      <point x="-466" y="679" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>633</integer>
+        <key>width</key>
+        <integer>64</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>665</integer>
+        <key>width</key>
+        <integer>63</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

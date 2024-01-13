@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oacute" format="2">
+	<unicode hex="00D3"/>
+	<advance width="851"/>
+	<outline>
+		<component base="O"/>
+		<contour>
+			<point x="351.333" y="789.333" type="line"/>
+			<point x="567" y="907.333" type="line"/>
+			<point x="519.667" y="988" type="line"/>
+			<point x="306" y="860" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="425.333" y="1005.67"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>684</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>44</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>750</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

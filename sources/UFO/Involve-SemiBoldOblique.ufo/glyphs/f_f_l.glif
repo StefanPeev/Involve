@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f_l" format="2">
+	<unicode hex="FB04"/>
+	<advance width="780"/>
+	<outline>
+		<contour>
+			<point x="79" y="0" type="line"/>
+			<point x="192.333" y="0" type="line"/>
+			<point x="275.333" y="448.667" type="line"/>
+			<point x="427.333" y="448.667" type="line"/>
+			<point x="344.333" y="0" type="line"/>
+			<point x="457.667" y="0" type="line"/>
+			<point x="540.667" y="448.667" type="line"/>
+			<point x="636" y="448.667" type="line"/>
+			<point x="654" y="545" type="line"/>
+			<point x="558.667" y="545" type="line"/>
+			<point x="570.333" y="601.667"/>
+			<point x="603.333" y="631.333"/>
+			<point x="675.333" y="631.333" type="curve"/>
+			<point x="695.333" y="737.667" type="line"/>
+			<point x="545.667" y="737.667"/>
+			<point x="479.333" y="681"/>
+			<point x="445.333" y="545" type="curve"/>
+			<point x="293.333" y="545" type="line"/>
+			<point x="305" y="601.667"/>
+			<point x="338" y="631.333"/>
+			<point x="410" y="631.333" type="curve"/>
+			<point x="430" y="737.667" type="line"/>
+			<point x="280.333" y="737.667"/>
+			<point x="214" y="681"/>
+			<point x="180" y="545" type="curve"/>
+			<point x="119.667" y="545" type="line"/>
+			<point x="101.667" y="448.667" type="line"/>
+			<point x="162" y="448.667" type="line"/>
+		</contour>
+		<contour>
+			<point x="609.667" y="0" type="line"/>
+			<point x="723" y="0" type="line"/>
+			<point x="860" y="739" type="line"/>
+			<point x="746.667" y="739" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>480</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>672</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

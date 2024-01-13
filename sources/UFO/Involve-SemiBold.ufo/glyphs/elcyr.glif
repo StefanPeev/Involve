@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="elcyr" format="2">
+	<unicode hex="043B"/>
+	<advance width="569"/>
+	<outline>
+		<contour>
+			<point x="3.667" y="0" type="line"/>
+			<point x="124.333" y="0" type="line"/>
+			<point x="284.667" y="399.667" type="line"/>
+			<point x="444.667" y="0" type="line"/>
+			<point x="565.333" y="0" type="line"/>
+			<point x="333" y="551.667" type="line"/>
+			<point x="236" y="551.667" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="284.667" y="627.667"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>527</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

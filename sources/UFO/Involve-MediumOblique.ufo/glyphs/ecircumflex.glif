@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflex" format="2">
+	<unicode hex="00EA"/>
+	<advance width="645"/>
+	<outline>
+		<component base="e"/>
+		<contour>
+			<point x="259" y="625.333" type="line"/>
+			<point x="368.667" y="625.333" type="line"/>
+			<point x="458.667" y="696" type="line"/>
+			<point x="520.333" y="625.333" type="line"/>
+			<point x="628" y="625.333" type="line"/>
+			<point x="508.667" y="755.333" type="line"/>
+			<point x="429" y="755.333" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>249</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>492</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>729</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>88</integer>
+						<key>width</key>
+						<integer>73</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>596</integer>
+						<key>width</key>
+						<integer>71</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>public.markColor</key>
+			<string>0.999,1,0.6,1</string>
+		</dict>
+	</lib>
+</glyph>

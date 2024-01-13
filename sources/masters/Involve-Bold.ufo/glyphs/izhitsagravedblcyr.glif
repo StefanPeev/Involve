@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="izhitsagravedblcyr" format="2">
+  <advance width="697"/>
+  <unicode hex="0477"/>
+  <outline>
+    <contour>
+      <point x="18" y="751" type="line"/>
+      <point x="244" y="627" type="line"/>
+      <point x="297" y="706" type="line"/>
+      <point x="75" y="839" type="line"/>
+    </contour>
+    <contour>
+      <point x="288" y="751" type="line"/>
+      <point x="514" y="627" type="line"/>
+      <point x="567" y="706" type="line"/>
+      <point x="345" y="839" type="line"/>
+    </contour>
+    <contour>
+      <point x="316" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="575" y="380" type="line" smooth="yes"/>
+      <point x="588.985" y="414.734"/>
+      <point x="613.799" y="433"/>
+      <point x="647" y="433" type="curve" smooth="yes"/>
+      <point x="664" y="433" type="line"/>
+      <point x="664" y="554" type="line"/>
+      <point x="612" y="554" type="line" smooth="yes"/>
+      <point x="527.675" y="554"/>
+      <point x="481.867" y="517.241"/>
+      <point x="450" y="424" type="curve" smooth="yes"/>
+      <point x="369" y="187" type="line"/>
+      <point x="241" y="554" type="line"/>
+      <point x="93" y="554" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>480</integer>
+        <key>width</key>
+        <integer>67</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>620</integer>
+        <key>width</key>
+        <integer>166</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

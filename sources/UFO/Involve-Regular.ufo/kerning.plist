@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>decyr</key>
+		<dict>
+			<key>ucyr</key>
+			<integer>-46</integer>
+		</dict>
+		<key>public.kern1.cyrl_elcyr_LT</key>
+		<dict>
+			<key>public.kern2.cyrl_ocyr_RT</key>
+			<integer>-46</integer>
+			<key>public.kern2.cyrl_ucyr_RT</key>
+			<integer>-46</integer>
+		</dict>
+		<key>public.kern1.cyrl_ocyr_LT</key>
+		<dict>
+			<key>public.kern2.cyrl_elcyr_RT</key>
+			<integer>-46</integer>
+		</dict>
+		<key>public.kern1.cyrl_tsecyr_LT</key>
+		<dict>
+			<key>public.kern2.cyrl_hardcyr_RT</key>
+			<integer>-60</integer>
+		</dict>
+		<key>public.kern1.cyrl_ucyr_LT</key>
+		<dict>
+			<key>public.kern2.cyrl_elcyr_RT</key>
+			<integer>-84</integer>
+		</dict>
+	</dict>
+</plist>

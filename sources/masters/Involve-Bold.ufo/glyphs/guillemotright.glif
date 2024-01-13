@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="2">
+  <advance width="460"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <component base="guillemotleft" xScale="-1" yScale="-1" xOffset="442" yOffset="577"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=guillemotleft@~</string>
+  </dict>
+  </lib>
+</glyph>

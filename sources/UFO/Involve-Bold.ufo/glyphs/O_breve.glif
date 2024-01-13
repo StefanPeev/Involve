@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obreve" format="2">
+	<unicode hex="014E"/>
+	<advance width="842"/>
+	<outline>
+		<component base="O"/>
+		<component base="breve" xOffset="192" yOffset="185"/>
+	</outline>
+	<anchor name="Anchor-0" x="421" y="805"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
+</glyph>

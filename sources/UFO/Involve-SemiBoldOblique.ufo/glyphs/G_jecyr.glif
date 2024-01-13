@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gjecyr" format="2">
+	<unicode hex="0403"/>
+	<advance width="459"/>
+	<outline>
+		<contour>
+			<point x="319" y="789.333" type="line"/>
+			<point x="556.333" y="907.333" type="line"/>
+			<point x="524" y="988" type="line"/>
+			<point x="286.333" y="860" type="line"/>
+		</contour>
+		<contour>
+			<point x="72.667" y="0" type="line"/>
+			<point x="188.667" y="0" type="line"/>
+			<point x="305.667" y="629.333" type="line"/>
+			<point x="569.333" y="629.333" type="line"/>
+			<point x="589.333" y="739" type="line"/>
+			<point x="209.667" y="739" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>672</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>792</integer>
+						<key>width</key>
+						<integer>172</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>283</integer>
+						<key>width</key>
+						<integer>238</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

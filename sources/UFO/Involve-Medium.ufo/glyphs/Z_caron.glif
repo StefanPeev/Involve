@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zcaron" format="2">
+	<unicode hex="017D"/>
+	<advance width="494"/>
+	<outline>
+		<contour>
+			<point x="21.333" y="0" type="line"/>
+			<point x="480" y="0" type="line"/>
+			<point x="480" y="88.333" type="line"/>
+			<point x="132.333" y="88.333" type="line"/>
+			<point x="466.333" y="653.333" type="line"/>
+			<point x="466.333" y="739" type="line"/>
+			<point x="33.667" y="739" type="line"/>
+			<point x="33.667" y="650.667" type="line"/>
+			<point x="356.667" y="650.667" type="line"/>
+			<point x="21.333" y="83.333" type="line"/>
+		</contour>
+		<contour>
+			<point x="68.667" y="935" type="line"/>
+			<point x="213" y="805" type="line"/>
+			<point x="292.667" y="805" type="line"/>
+			<point x="437.667" y="935" type="line"/>
+			<point x="328.667" y="935" type="line"/>
+			<point x="252.333" y="864.333" type="line"/>
+			<point x="177" y="935" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="252.333" y="996.333"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>672</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

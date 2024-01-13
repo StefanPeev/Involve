@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasiacombcyr" format="2">
+	<unicode hex="0485"/>
+	<outline>
+		<contour>
+			<point x="28.333" y="611" type="line"/>
+			<point x="2.667" y="637"/>
+			<point x="-21" y="669.667"/>
+			<point x="-21" y="699.333" type="curve" smooth="yes"/>
+			<point x="-21" y="702"/>
+			<point x="-21" y="705.333"/>
+			<point x="-20" y="709" type="curve"/>
+			<point x="-9" y="709" type="line" smooth="yes"/>
+			<point x="16.333" y="709"/>
+			<point x="35.667" y="745.333"/>
+			<point x="35.667" y="768.667" type="curve" smooth="yes"/>
+			<point x="35.667" y="797"/>
+			<point x="16" y="816"/>
+			<point x="-18.333" y="816" type="curve" smooth="yes"/>
+			<point x="-25" y="816" type="line" smooth="yes"/>
+			<point x="-80.667" y="816"/>
+			<point x="-104" y="773"/>
+			<point x="-104" y="723.333" type="curve" smooth="yes"/>
+			<point x="-104" y="676"/>
+			<point x="-74.333" y="633.333"/>
+			<point x="-52.333" y="611" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>719</integer>
+						<key>width</key>
+						<integer>87</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-93</integer>
+						<key>width</key>
+						<integer>65</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>-93</integer>
+						<key>width</key>
+						<integer>116</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

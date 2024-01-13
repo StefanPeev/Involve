@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gjecyr" format="2">
+	<unicode hex="0403"/>
+	<advance width="452"/>
+	<outline>
+		<contour>
+			<point x="199.667" y="790.667" type="line"/>
+			<point x="404" y="906.667" type="line"/>
+			<point x="363.333" y="976" type="line"/>
+			<point x="160" y="854" type="line"/>
+		</contour>
+		<contour>
+			<point x="74.333" y="0" type="line"/>
+			<point x="169.333" y="0" type="line"/>
+			<point x="169.333" y="650.667" type="line"/>
+			<point x="444.667" y="650.667" type="line"/>
+			<point x="444.667" y="739" type="line"/>
+			<point x="74.333" y="739" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="260.333" y="996.333"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>672</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>76</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

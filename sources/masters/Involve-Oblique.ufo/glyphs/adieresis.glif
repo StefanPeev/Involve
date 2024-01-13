@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresis" format="2">
+  <advance width="683"/>
+  <unicode hex="00E4"/>
+  <outline>
+    <component base="a"/>
+    <contour>
+      <point x="356" y="623" type="line"/>
+      <point x="430" y="623" type="line"/>
+      <point x="454" y="749" type="line"/>
+      <point x="380" y="749" type="line"/>
+    </contour>
+    <contour>
+      <point x="503" y="623" type="line"/>
+      <point x="577" y="623" type="line"/>
+      <point x="601" y="749" type="line"/>
+      <point x="527" y="749" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>492</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>527</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>623</integer>
+        <key>width</key>
+        <integer>126</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>87</integer>
+        <key>width</key>
+        <integer>77</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

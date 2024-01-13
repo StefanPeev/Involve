@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vecyr.loclBGR" format="2">
+	<advance width="639"/>
+	<outline>
+		<contour>
+			<point x="478.333" y="405.333" type="curve"/>
+			<point x="529.995" y="425.819"/>
+			<point x="563.667" y="481.265"/>
+			<point x="563.667" y="545.333" type="curve" smooth="yes"/>
+			<point x="563.667" y="668.566"/>
+			<point x="461.933" y="752"/>
+			<point x="311.667" y="752" type="curve" smooth="yes"/>
+			<point x="161.259" y="752"/>
+			<point x="61" y="649.246"/>
+			<point x="61" y="495" type="curve" smooth="yes"/>
+			<point x="61" y="232" type="line" smooth="yes"/>
+			<point x="61" y="78.069"/>
+			<point x="162.114" y="-13"/>
+			<point x="332.667" y="-13" type="curve" smooth="yes"/>
+			<point x="476.477" y="-13"/>
+			<point x="591.333" y="85.343"/>
+			<point x="591.333" y="208.667" type="curve" smooth="yes"/>
+			<point x="591.333" y="301.794"/>
+			<point x="549.096" y="375.653"/>
+		</contour>
+		<contour>
+			<point x="230.333" y="349" type="line"/>
+			<point x="343.667" y="349" type="line" smooth="yes"/>
+			<point x="426.601" y="349"/>
+			<point x="477" y="300.976"/>
+			<point x="477" y="221.333" type="curve" smooth="yes"/>
+			<point x="477" y="140.646"/>
+			<point x="419.919" y="90.667"/>
+			<point x="327.667" y="90.667" type="curve" smooth="yes"/>
+			<point x="231.649" y="90.667"/>
+			<point x="174.333" y="140.252"/>
+			<point x="174.333" y="223.333" type="curve" smooth="yes"/>
+			<point x="174.333" y="497.333" type="line" smooth="yes"/>
+			<point x="174.333" y="595.943"/>
+			<point x="223.79" y="648.333"/>
+			<point x="317" y="648.333" type="curve" smooth="yes"/>
+			<point x="403.475" y="648.333"/>
+			<point x="454" y="609.957"/>
+			<point x="454" y="544.333" type="curve" smooth="yes"/>
+			<point x="454" y="474.743"/>
+			<point x="415.766" y="437"/>
+			<point x="345" y="437" type="curve" smooth="yes"/>
+			<point x="230.333" y="437" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>373</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>685</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>63</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>442</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>489</integer>
+						<key>width</key>
+						<integer>75</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

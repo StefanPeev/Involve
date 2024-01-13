@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflex" format="2">
+	<unicode hex="00EA"/>
+	<advance width="650"/>
+	<outline>
+		<component base="e"/>
+		<contour>
+			<point x="153" y="623" type="line"/>
+			<point x="244" y="623" type="line"/>
+			<point x="332" y="697" type="line"/>
+			<point x="418" y="623" type="line"/>
+			<point x="507" y="623" type="line"/>
+			<point x="364" y="749" type="line"/>
+			<point x="298" y="749" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="329" y="805"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>249</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>492</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>729</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

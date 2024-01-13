@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb" format="2">
+	<unicode hex="0304"/>
+	<outline>
+		<contour>
+			<point x="-461" y="648" type="line"/>
+			<point x="-184" y="648" type="line"/>
+			<point x="-184" y="748" type="line"/>
+			<point x="-461" y="748" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-1" x="-323" y="840"/>
+	<anchor name="_Anchor-1" x="-323" y="630"/>
+	<anchor name="_Anchor-0" x="-323" y="630"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>643</integer>
+						<key>width</key>
+						<integer>64</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

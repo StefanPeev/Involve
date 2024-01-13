@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="egrave" format="2">
+	<unicode hex="00E8"/>
+	<advance width="645"/>
+	<outline>
+		<component base="e"/>
+		<contour>
+			<point x="168.333" y="724.333" type="line"/>
+			<point x="375" y="611" type="line"/>
+			<point x="414.667" y="674.667" type="line"/>
+			<point x="208.667" y="792.333" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor-0" x="327.333" y="816.667"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>249</integer>
+						<key>width</key>
+						<integer>67</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>492</integer>
+						<key>width</key>
+						<integer>68</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>
