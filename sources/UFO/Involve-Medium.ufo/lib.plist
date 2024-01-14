@@ -46,11 +46,11 @@
 		</dict>
 		<key>org.unifiedfontobject.normalizer.modTimes</key>
 		<string>version: 0.6.1
-1705183019.3 fontinfo.plist
-1705183019.3 groups.plist
-1705183019.3 kerning.plist
-1705183019.3 layercontents.plist
-1705183019.3 metainfo.plist</string>
+1705200032.7 fontinfo.plist
+1705200032.7 groups.plist
+1705200032.7 kerning.plist
+1705200032.7 layercontents.plist
+1705200032.7 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>.notdef</string>

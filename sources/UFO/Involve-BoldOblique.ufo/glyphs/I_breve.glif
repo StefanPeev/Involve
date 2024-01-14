@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ibreve" format="2">
-	<unicode hex="012C"/>
-	<advance width="279"/>
-	<outline>
-		<component base="I"/>
-		<component base="breve" xOffset="-68.568" yOffset="185"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.recipe</key>
-			<string>I+breve</string>
-			<key>public.markColor</key>
-			<string>0.999,1,0.6,1</string>
-		</dict>
-	</lib>
+  <advance width="279"/>
+  <unicode hex="012C"/>
+  <outline>
+    <component base="I"/>
+    <component base="breve" xOffset="-68.568" yOffset="185"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+breve</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="otilde" format="2">
-	<unicode hex="00F5"/>
-	<advance width="645"/>
-	<outline>
-		<component base="o"/>
-		<contour>
-			<point x="332" y="636" type="line"/>
-			<point x="374" y="659"/>
-			<point x="381" y="661"/>
-			<point x="407" y="661" type="curve" smooth="yes"/>
-			<point x="424" y="661"/>
-			<point x="441" y="657"/>
-			<point x="458" y="649" type="curve" smooth="yes"/>
-			<point x="473" y="642"/>
-			<point x="500" y="636"/>
-			<point x="515" y="636" type="curve" smooth="yes"/>
-			<point x="550" y="636"/>
-			<point x="580" y="652"/>
-			<point x="619" y="691" type="curve"/>
-			<point x="580" y="772" type="line"/>
-			<point x="555" y="748"/>
-			<point x="533" y="738"/>
-			<point x="507" y="738" type="curve" smooth="yes"/>
-			<point x="493" y="738"/>
-			<point x="481" y="741"/>
-			<point x="462" y="749" type="curve" smooth="yes"/>
-			<point x="435" y="761"/>
-			<point x="426" y="763"/>
-			<point x="404" y="763" type="curve" smooth="yes"/>
-			<point x="362" y="763"/>
-			<point x="334" y="751"/>
-			<point x="293" y="716" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-13</integer>
-						<key>width</key>
-						<integer>68</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>492</integer>
-						<key>width</key>
-						<integer>68</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>633</integer>
-						<key>width</key>
-						<integer>64</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>665</integer>
-						<key>width</key>
-						<integer>63</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>87</integer>
-						<key>width</key>
-						<integer>76</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>593</integer>
-						<key>width</key>
-						<integer>76</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>public.markColor</key>
-			<string>0.999,1,0.6,1</string>
-		</dict>
-	</lib>
+  <advance width="645"/>
+  <unicode hex="00F5"/>
+  <outline>
+    <component base="o"/>
+    <contour>
+      <point x="332" y="636" type="line"/>
+      <point x="374" y="659"/>
+      <point x="381" y="661"/>
+      <point x="407" y="661" type="curve" smooth="yes"/>
+      <point x="424" y="661"/>
+      <point x="441" y="657"/>
+      <point x="458" y="649" type="curve" smooth="yes"/>
+      <point x="473" y="642"/>
+      <point x="500" y="636"/>
+      <point x="515" y="636" type="curve" smooth="yes"/>
+      <point x="550" y="636"/>
+      <point x="580" y="652"/>
+      <point x="619" y="691" type="curve"/>
+      <point x="580" y="772" type="line"/>
+      <point x="555" y="748"/>
+      <point x="533" y="738"/>
+      <point x="507" y="738" type="curve" smooth="yes"/>
+      <point x="493" y="738"/>
+      <point x="481" y="741"/>
+      <point x="462" y="749" type="curve" smooth="yes"/>
+      <point x="435" y="761"/>
+      <point x="426" y="763"/>
+      <point x="404" y="763" type="curve" smooth="yes"/>
+      <point x="362" y="763"/>
+      <point x="334" y="751"/>
+      <point x="293" y="716" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>492</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>633</integer>
+        <key>width</key>
+        <integer>64</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>665</integer>
+        <key>width</key>
+        <integer>63</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>87</integer>
+        <key>width</key>
+        <integer>76</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>593</integer>
+        <key>width</key>
+        <integer>76</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -3,7 +3,7 @@
   <advance width="365"/>
   <unicode hex="201D"/>
   <outline>
-    <component base="quotedblbase" yOffset="613"/>
+    <component base="quotedblbase" xOffset="3.75354e-14" yOffset="613"/>
   </outline>
   <lib>
   <dict>

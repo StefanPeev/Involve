@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="figuredash" format="2">
-	<unicode hex="2012"/>
-	<advance width="560"/>
-	<outline>
-		<contour>
-			<point x="72" y="229" type="line"/>
-			<point x="572" y="229" type="line"/>
-			<point x="594" y="347" type="line"/>
-			<point x="94" y="347" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>233</integer>
-						<key>width</key>
-						<integer>63</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="560"/>
+  <unicode hex="2012"/>
+  <outline>
+    <contour>
+      <point x="72" y="229" type="line"/>
+      <point x="572" y="229" type="line"/>
+      <point x="594" y="347" type="line"/>
+      <point x="94" y="347" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>233</integer>
+        <key>width</key>
+        <integer>63</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

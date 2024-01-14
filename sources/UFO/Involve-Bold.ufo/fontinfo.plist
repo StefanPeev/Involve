@@ -68,7 +68,7 @@ URW Gothic L. Copyright (c) 1996 by URW.</string>
 		<integer>0</integer>
 		<key>openTypeNameDescription</key>
 		<string>Font family Involve is based on the project Evolventa. Evolventa is a Cyrillic extension of the open-source URW Gothic L font family. Evolventa is copyrighted (c) 2016 by Alex I. Kuznetsov and it is published under two open source licenses: GPLv2 and LPPL.
-Involve extendes the multilanguage coverage of Evolventa and change the geometry of some glyphs, include also new styles (Medium, SemiBold) as well as a variable font format. The project Involve is maintained by Stefan Peev on GitHub. Involve is published under SIL Open Font license v.1.1.</string>
+Involve extendes the multilanguage coverage of Evolventa and changes the geometry of some glyphs. It includes also new styles (Medium, SemiBold) as well as a variable font formats. The project Involve is maintained by Stefan Peev on GitHub. Involve is published under SIL Open Font license v.1.1.</string>
 		<key>openTypeNameDesigner</key>
 		<string>Stefan Peev</string>
 		<key>openTypeNameDesignerURL</key>
@@ -96,7 +96,7 @@ Original URW fonts can be obtained at the Evolventa website (https://evolventa.g
 		<key>openTypeNamePreferredSubfamilyName</key>
 		<string>Bold</string>
 		<key>openTypeNameVersion</key>
-		<string>Version 1.000</string>
+		<string>Version 1.001</string>
 		<key>openTypeOS2CodePageRanges</key>
 		<array>
 			<integer>0</integer>
@@ -215,7 +215,7 @@ Original URW fonts can be obtained at the Evolventa website (https://evolventa.g
 		<key>versionMajor</key>
 		<integer>1</integer>
 		<key>versionMinor</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>xHeight</key>
 		<integer>554</integer>
 	</dict>

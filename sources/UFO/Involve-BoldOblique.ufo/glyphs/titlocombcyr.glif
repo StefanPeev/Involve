@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="titlocombcyr" format="2">
-	<unicode hex="0483"/>
-	<outline>
-		<contour>
-			<point x="-518" y="765" type="line"/>
-			<point x="-386" y="765" type="line"/>
-			<point x="-374" y="830" type="line"/>
-			<point x="53" y="830" type="line"/>
-			<point x="90" y="1028" type="line"/>
-			<point x="-42" y="1028" type="line"/>
-			<point x="-54" y="963" type="line"/>
-			<point x="-481" y="963" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>830</integer>
-						<key>width</key>
-						<integer>73</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <unicode hex="0483"/>
+  <outline>
+    <contour>
+      <point x="-518" y="765" type="line"/>
+      <point x="-386" y="765" type="line"/>
+      <point x="-374" y="830" type="line"/>
+      <point x="53" y="830" type="line"/>
+      <point x="90" y="1028" type="line"/>
+      <point x="-42" y="1028" type="line"/>
+      <point x="-54" y="963" type="line"/>
+      <point x="-481" y="963" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>830</integer>
+        <key>width</key>
+        <integer>73</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>
