@@ -1,6 +1,7 @@
 ![Sample Image](/images/Involve_01.jpg)
 
-# Involve
+# Involve  
+  
 Font family Involve is based on the project [Evolventa](https://github.com/evolventa/evolventa). Evolventa is a Cyrillic extension of the open-source URW Gothic L font family. Evolventa is copyrighted (c) 2016 by Alex I. Kuznetsov and it is published under two open source licenses: GPLv2 and LPPL.
   
 Involve extends the multilanguage coverage of Evolventa and changes the geometry of some glyphs. It includes also 2 new styles (Involve Medium, Involve SemiBold) as well as a variable font formats. The project Involve is maintained by Stefan Peev on GitHub. Involve is published under SIL Open Font license v.1.1.  
@@ -28,22 +29,37 @@ Examples
 --------
 See [images](/images/) and [Gallery](/images/Gallery.md).
 
-Local Fonts Project
+Localfonts projects
 -------------------
+  
+The primarily aim of the project **LOCALFONTS** is to extend Cyrillic in fonts published under licenses which permit modifications and derivative works by adding Cyrillic local forms (Bulgarian, Serbian, Macedonian, Ukrainian etc.).  
+The **Localfonts** project consists of the following fonts:
 
-+ [Coval](https://github.com/StefanPeev/coval)
-+ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)
-+ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)
-+ [Perun](https://github.com/StefanPeev/Perun)
-+ [Pliska](https://github.com/StefanPeev/Pliska)
-+ [Veleka](https://github.com/StefanPeev/Veleka)
-+ [Common Sans](https://github.com/StefanPeev/Common-Sans)
-+ [Common Serif](https://github.com/StefanPeev/Common-Serif)
-+ [Repo](https://github.com/StefanPeev/Repo)
-+ [Involve](https://github.com/StefanPeev/Involve)
-
++ [Acari Sans](https://github.com/StefanPeev/acari-sans/tree/local) 
++ [Common Sans](https://github.com/StefanPeev/Common-Sans)  
++ [Common Serif](https://github.com/StefanPeev/Common-Serif)  
++ [Coval](https://github.com/StefanPeev/coval)  
++ [Dinish](https://github.com/StefanPeev/dinish/tree/cyrillic)  
++ [Ezerovo](https://github.com/StefanPeev/Ezerovo)  
++ [Gabriela](https://github.com/StefanPeev/Gabriela)  
++ [Grazhdanskiy Shrift](https://github.com/StefanPeev/Grazhdanskiy-Shrift)  
++ [Involve](https://github.com/StefanPeev/Involve)  
++ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)  
++ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)  
++ [Listopad | Open Sans](https://github.com/StefanPeev/opensans/tree/local)  
++ [Open Sans](https://github.com/StefanPeev/opensans/tree/local)  
++ [Perun](https://github.com/StefanPeev/Perun)  
++ [Pliska](https://github.com/StefanPeev/Pliska)  
++ [Prolog | Libre Moretus](https://github.com/StefanPeev/libre-moretus/tree/prolog)  
++ [Repo](https://github.com/StefanPeev/Repo)  
++ [Scada | Cascade](https://github.com/StefanPeev/Scada-Cascade/tree/local)  
++ [Spritulo](https://github.com/StefanPeev/spritulo)  
++ [Terminalia](https://github.com/StefanPeev/Terminalia)  
++ [Veleka](https://github.com/StefanPeev/Veleka)  
+  
 Donations
 ---------
 
 If you apreciate the project, please feel free to donate: [PayPal](https://www.paypal.me/localfonts).
+
 
