@@ -1,16 +1,20 @@
 # Gallery
 
-<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_01.jpg" />  
+<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_950x475_01.jpg" />  
   
-<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_02.jpg" />  
+<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_950x475_02.jpg" />  
   
-<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_03.jpg" />  
+<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_950x475_03.jpg" />  
   
-<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_04.jpg" />  
+<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_950x475_04.jpg" />  
   
-<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_05.jpg" />  
+<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_950x475_05.jpg" />  
   
-<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_06.jpg" />  
+<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_950x475_06.jpg" />  
   
-<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_07.jpg" />  
+<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_950x475_07.jpg" />  
   
+<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_950x475_08.jpg" />  
+  
+<img src="https://github.com/StefanPeev/Involve/blob/main/images/Involve_950x475_09.jpg" />  
+      

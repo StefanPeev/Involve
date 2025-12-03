@@ -1,4 +1,4 @@
-![Sample Image](/images/Involve_01.jpg)
+![Sample Image](/images/Involve_950x475_01.jpg)
 
 # Involve  
   
