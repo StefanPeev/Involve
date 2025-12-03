@@ -2,8 +2,7 @@
 
 # Involve  
   
-Font family Involve is based on the project [Evolventa](https://github.com/evolventa/evolventa). Evolventa is a Cyrillic extension of the open-source URW Gothic L font family. Evolventa is copyrighted (c) 2016 by Alex I. Kuznetsov and it is published under two open source licenses: GPLv2 and LPPL.
-  
+Font family Involve is based on the project [Evolventa](https://github.com/evolventa/evolventa). Evolventa is a Cyrillic extension of the open-source URW Gothic L font family. Evolventa is copyrighted (c) 2016 by Alex I. Kuznetsov and it is published under two open source licenses: GPLv2 and LPPL.  
 Involve extends the multilanguage coverage of Evolventa and changes the geometry of all the glyphs.  
 Version 2.011 now includes 9 weights distributed between the Thin and Black styles, as well as a variable version of the font family. Much attention has been paid to the precision of the geometry of the rounded shapes, in order to achieve maximum clarity of the contours and to guarantee perfect reproduction and perfect readability. The localizations in the Cyrillic area have also been updated, so as to implement correct forms of the Cyrillic letters for the Serbian, North Macedonian and Bulgarian languages.  
 The project Involve is maintained by Stefan Peev on GitHub. Involve is published under SIL Open Font license v.1.1.  
